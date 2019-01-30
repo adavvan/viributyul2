@@ -1,0 +1,8 @@
+D:\10A\9A\scam\scam\bin\Debug\scam.exe.config
+D:\10A\9A\scam\scam\bin\Debug\scam.exe
+D:\10A\9A\scam\scam\bin\Debug\scam.pdb
+D:\10A\9A\scam\scam\obj\Debug\scam.csprojResolveAssemblyReference.cache
+D:\10A\9A\scam\scam\obj\Debug\scam.MainForm.resources
+D:\10A\9A\scam\scam\obj\Debug\scam.csproj.GenerateResource.Cache
+D:\10A\9A\scam\scam\obj\Debug\scam.exe
+D:\10A\9A\scam\scam\obj\Debug\scam.pdb
